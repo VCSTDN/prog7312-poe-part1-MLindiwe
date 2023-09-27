@@ -1,7 +1,7 @@
 To compile and run the program, you can follow these steps:
 
 1. Copy the submitted GitHub link.
-2. Then aunch a Visual Studio
+2. Then launch a Visual Studio
 3. Select "Clone repository" from the menu.
 4. Paste the https link you copied into the "Repository location" textbox.
 5. Next, click "Clone" below.
